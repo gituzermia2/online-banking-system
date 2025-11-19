@@ -1,0 +1,21 @@
+# Java
+*.class
+*.jar
+*.war
+*.log
+
+# H2 Database files
+*.mv.db
+*.trace.db
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE files
+.idea/
+*.iml
+*.classpath
+*.project
+*.settings/
+bin/
