@@ -95,4 +95,6 @@ MIT License
 
 ## 👤 Author
 Malav Madnani  
+24SCSE1180253
 B.Tech CSE (AI & ML)
+Galgotias University '28
